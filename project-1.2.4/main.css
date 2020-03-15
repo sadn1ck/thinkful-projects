@@ -1,0 +1,28 @@
+body{
+    padding: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: turquoise;
+}
+#top{
+    text-align: center;
+}
+#contact{
+    float: left;
+    width: 33%;
+    text-align: left;
+}
+#sally{
+    float: left;
+    width: 34%;
+    text-align: center;
+}
+
+#education{
+    float: right;
+    width: 33%;
+    text-align: left;
+}
+#jobs{
+
+}
